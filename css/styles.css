@@ -9,7 +9,7 @@ nav ul li {
 nav ul li a {
     display: block;
     padding: .5rem 1rem;
-    background: color #f89c1f;
+    background-color: #f89c1f;
 }
 main h1 {
     clear: both;
